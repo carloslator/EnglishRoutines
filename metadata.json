@@ -1,0 +1,6 @@
+{
+  "name": "Interactive ESL Routine Lab",
+  "description": "An interactive digital companion for the ESL Routines present simple lesson, featuring dynamic D3.js timeline and category visualizers, vocabulary flashcards, roleplay conversation builders, sentence unscrambling games, and progress telemetry dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
